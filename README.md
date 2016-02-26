@@ -3,7 +3,7 @@ A java application to turn EffeVi eCommerce's big orders into picking tables doc
 
 Made by Alessandro D'Armiento for T18 EffeVi to create picking dispatch and weighers documents from large wholesale orders.
 
-Read .pdf documents in input and give .doc tables in output with products to dispatch and weigh divided by buyer, supplier and registered offices.
+Reads .pdf documents as input and gives .doc tables as output with products to dispatch and weigh divided by buyer, supplier and registered office.
 Tables are then used by weighers and dispatcher to load trucks.
 
 Uses external libraries:
@@ -14,5 +14,5 @@ Uses external libraries:
 
 
 ToDo: 
-  Forget about PDFs and read everything from DB
+  Forget about PDFs and read everything from DB as soon as I will be allowed
 
